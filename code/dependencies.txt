@@ -1,0 +1,7 @@
+pip install librosa
+pip install evaluate>=0.30
+pip install gradio
+pip install jiwer
+pip install torch
+pip install soundfile
+pip install torchaudio
